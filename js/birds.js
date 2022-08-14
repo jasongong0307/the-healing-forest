@@ -1,0 +1,9 @@
+class Birds {
+    constructor() {
+        
+    }
+
+    show() {
+
+    }
+}
